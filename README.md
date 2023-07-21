@@ -60,6 +60,7 @@ Observação: Os logs são sempre lançados no arquivo access_logging.log
 
 
 Primeiro é necessário localizar o nome do container que está rodando, use o comando:
+
 Obs.: Provavelmente o nome será: **framework_teste_web_1**
 
 ```shell
